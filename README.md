@@ -40,7 +40,7 @@ There are lots of applications for coding, so why let CS have all of the fun? En
 #### [Learn Linux](https://www.youtube.com/watch?v=rL3yq5a_vNM&list=PLlcnQQJK8SUjfkCph45fz6rC0de60LVZR)
 1. What is a unix / linux system?
   - Brief history of operating systems
-  -`this is dumb we should use windows` <~~~ No ma'am / sir
+  - `this is dumb we should use windows` <~~~ No ma'am / sir
   - Tour of a linux server (ssh into raspberry pi)
 2. Why Linux?
    - Easy to set up and develop on
