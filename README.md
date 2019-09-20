@@ -10,21 +10,21 @@ There are lots of applications for coding, so why let CS have all of the fun? En
 
 ---
 ## Workflow
-1. Learn Linux
+1. **Learn Linux**
    1. How to navigate filesystem
    2. How to make directories
    3. How to move, copy, remove, files
    4. How to touch files   
 
 
-2. Learn Git   
+2. **Learn Git**   
    1. How to make a repo
    2. How to commit / push / pull
    3. How to make a branch
    4. How to merge
 
 
-3. Introductory python   
+3. **Introductory Python**   
    1. What is a compiled language? Why is python "super slow"?
    2. Logic
    3. Useful, python specific syntax
