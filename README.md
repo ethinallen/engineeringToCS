@@ -9,7 +9,7 @@ Does the following describe you?
 There are lots of applications for coding, so why let CS have all of the fun? Engineers have a lot of useful applications for code but it can often seem daunting to the uninitiated. If I had to learn it all from scratch this is how I would do it!
 
 ---
-## Workflows
+## Workflow
 1. Learn Linux
    2. How to navigate filesystem
    3. How to make directories
@@ -31,6 +31,8 @@ There are lots of applications for coding, so why let CS have all of the fun? En
    1. Why are shell scripts useful?
    2. Introduction to bash syntax
 
+---
+
 #### [Learn Linux](https://www.youtube.com/watch?v=rL3yq5a_vNM&list=PLlcnQQJK8SUjfkCph45fz6rC0de60LVZR)
 1. Why Linux?
    - Easy to set up and develop on
@@ -41,4 +43,5 @@ There are lots of applications for coding, so why let CS have all of the fun? En
 #### [Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - Learn Git!
   - Git is a brilliant way to share more than just code! It is a super useful way to collaborate on any file and can make transferring projects between machines very painless.
-  -
+  - You're going to need it to collaborate
+  - The better you are at it, the longer you can go before merging the wrong thing and making your coworkers really upset with you!
