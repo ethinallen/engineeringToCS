@@ -9,6 +9,7 @@ Does the following describe you?
 There are lots of applications for coding, so why let CS have all of the fun? Engineers have a lot of useful applications for code but it can often seem daunting to the uninitiated. If I had to learn it all from scratch this is how I would do it!
 
 ---
+## Workflows
 1. Learn Linux
    2. How to navigate filesystem
    3. How to make directories
@@ -16,8 +17,19 @@ There are lots of applications for coding, so why let CS have all of the fun? En
    1. How to touch files   
 2. Learn Git   
    1. How to make a repo
-   2. How to make a branch
-3.
+   2. How to commit / push / pull
+   3. How to make a branch
+   4. How to merge
+3. Introductory python
+   1. What is a compiled language? Why is python "super slow"?
+   2. Logic
+   3. Useful, python specific syntax
+   4. Reading / Writing to files
+   5. Write a function
+   6. Make a class
+4. Shell scripts
+   1. Why are shell scripts useful?
+   2. Introduction to bash syntax
 
 #### [Learn Linux](https://www.youtube.com/watch?v=rL3yq5a_vNM&list=PLlcnQQJK8SUjfkCph45fz6rC0de60LVZR)
 1. Why Linux?
