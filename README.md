@@ -31,7 +31,7 @@ There are lots of applications for coding, so why let CS have all of the fun? En
    4. Reading / Writing to files
    5. Write a function
    6. Make a class
-4. Shell scripts
+4. **Shell scripts**
    1. Why are shell scripts useful?
    2. Introduction to shell syntax
 
