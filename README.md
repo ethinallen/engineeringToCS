@@ -11,16 +11,20 @@ There are lots of applications for coding, so why let CS have all of the fun? En
 ---
 ## Workflow
 1. Learn Linux
-   2. How to navigate filesystem
-   3. How to make directories
+   1. How to navigate filesystem
+   2. How to make directories
    3. How to move, copy, remove, files
-   1. How to touch files   
+   4. How to touch files   
+
+
 2. Learn Git   
    1. How to make a repo
    2. How to commit / push / pull
    3. How to make a branch
    4. How to merge
-3. Introductory python
+
+
+3. Introductory python   
    1. What is a compiled language? Why is python "super slow"?
    2. Logic
    3. Useful, python specific syntax
@@ -34,11 +38,16 @@ There are lots of applications for coding, so why let CS have all of the fun? En
 ---
 
 #### [Learn Linux](https://www.youtube.com/watch?v=rL3yq5a_vNM&list=PLlcnQQJK8SUjfkCph45fz6rC0de60LVZR)
-1. Why Linux?
+1. What is a unix / linux system?
+  - Brief history of operating systems
+  -`this is dumb we should use windows` <~~~ No ma'am / sir
+  - Tour of a linux server (ssh into raspberry pi)
+2. Why Linux?
    - Easy to set up and develop on
    - Easy to set up a new machine to run the same code as your machine
    - Most servers are linux based;
      - knowing how to navigate and use linux machines enales one to do a lot more with code
+3.
 
 #### [Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - Learn Git!
