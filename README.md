@@ -55,4 +55,9 @@ There are lots of applications for coding, so why let CS have all of the fun? En
   - All you have to do is click on the title or [this](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 #### [Learn Python](https://github.com/ethinallen/engineeringToCS/blob/master/learningPyhton.md)
-- Hello World!
+- `Hello World!` as is customary, we are going to our first program helloWorld.py
+- Learn basic logic (if, or, and)
+- Learn lists
+- Learn loops (for, while)
+- Learn functions
+- Learn Classes
