@@ -52,4 +52,7 @@ There are lots of applications for coding, so why let CS have all of the fun? En
   - You're going to need it to collaborate
   - The better you are at it, the longer you can go before merging the wrong thing and making your coworkers really upset with you!
 - Watch Daniel Shiffman's full series on Git, he doesn't even push code because Github's utility extends beyond code. He keeps it simple and shows you all git functionality without pushing a single line of code
-  - All you have to do is click on the or [this](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+  - All you have to do is click on the title or [this](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+#### [Learn Python](https://github.com/ethinallen/facilitiesPlanningAndDesign/learningPython.md)
+- Hello World!
