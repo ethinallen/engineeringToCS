@@ -54,5 +54,5 @@ There are lots of applications for coding, so why let CS have all of the fun? En
 - Watch Daniel Shiffman's full series on Git, he doesn't even push code because Github's utility extends beyond code. He keeps it simple and shows you all git functionality without pushing a single line of code
   - All you have to do is click on the title or [this](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
-#### [Learn Python](https://github.com/ethinallen/facilitiesPlanningAndDesign/blob/master/learningPython.md)
+#### [Learn Python](https://github.com/ethinallen/engineeringToCS/blob/master/learningPyhton.md)
 - Hello World!
