@@ -38,12 +38,13 @@ There are lots of applications for coding, so why let CS have all of the fun? En
    - Brief history of operating systems
    - `this is dumb we should use windows` <~~~ No ma'am / sir
    - Tour of a linux server (ssh into raspberry pi)
-2. Why Linux?
+2. [What is a bootable USB?]('')
+3. Why Linux?
    - Easy to set up and develop on
    - Easy to set up a new machine to run the same code as your machine
    - Most servers are linux based;
      - knowing how to navigate and use linux machines enales one to do a lot more with code
-3. Why do I need to learn command line?
+4. Why do I need to learn command line?
    - Command line is useful because it means you can now issue commands to the computer without needing a fancy user interface
 
 #### [Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
