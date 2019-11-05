@@ -38,7 +38,7 @@ There are lots of applications for coding, so why let CS have all of the fun? En
    - Brief history of operating systems
    - `this is dumb we should use windows` <~~~ No ma'am / sir
    - Tour of a linux server (ssh into raspberry pi)
-2. [What is a bootable USB?]('')
+2. [What is a bootable USB?](bootableUSB.md)
 3. Why Linux?
    - Easy to set up and develop on
    - Easy to set up a new machine to run the same code as your machine
