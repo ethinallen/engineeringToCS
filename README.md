@@ -15,12 +15,12 @@ There are lots of applications for coding, so why let CS have all of the fun? En
    2. How to make directories
    3. How to move, copy, remove, files
    4. How to touch files   
-2. **Learn Git**
+2. **[Learn Git](/git/learnGit.md)**
    1. How to make a repo
    2. How to commit / push / pull
    3. How to make a branch
    4. How to merge   
-3. **Introductory Python**   
+3. **[Introductory Python](/python/learnPython.md)**   
    1. What is a compiled language vs an interpreted language? Why is python "super slow"?
    2. Logic
    3. Useful, python specific syntax
@@ -32,19 +32,3 @@ There are lots of applications for coding, so why let CS have all of the fun? En
    2. Introduction to shell syntax
 
 ---
-
-#### [Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-- Learn Git!
-  - Git is a brilliant way to share more than just code! It is a super useful way to collaborate on any file and can make transferring projects between machines very painless.
-  - You're going to need it to collaborate
-  - The better you are at it, the longer you can go before merging the wrong thing and making your coworkers really upset with you!
-- Watch Daniel Shiffman's full series on Git, he doesn't even push code because Github's utility extends beyond code. He keeps it simple and shows you all git functionality without pushing a single line of code
-  - All you have to do is click on the title or [this](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-
-#### [Learn Python](https://github.com/ethinallen/engineeringToCS/blob/master/learningPyhton.md)
-- `Hello World!` as is customary, we are going to our first program helloWorld.py
-- Learn basic logic (if, or, and)
-- Learn lists
-- Learn loops (for, while)
-- Learn functions
-- Learn Classes
