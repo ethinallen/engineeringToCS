@@ -1,4 +1,4 @@
-#### [Learn Linux](https://www.youtube.com/watch?v=rL3yq5a_vNM&list=PLlcnQQJK8SUjfkCph45fz6rC0de60LVZR)
+#### [Learn Linux](https://www.youtube.com/watch?v=UFIoRLqhFpo&list=PLlcnQQJK8SUjfkCph45fz6rC0de60LVZR&index=6)
 1. [What is a Linux?](whatislinux.md)
    - Brief history of operating systems
    - Why is Linux the most used operating system in the world [that you've never heard of]
