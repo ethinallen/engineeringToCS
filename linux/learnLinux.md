@@ -1,8 +1,8 @@
 #### [Learn Linux](https://www.youtube.com/watch?v=rL3yq5a_vNM&list=PLlcnQQJK8SUjfkCph45fz6rC0de60LVZR)
-1. What is a unix / linux system?   
+1. [What is a Linux?](whatislinux.md)
    - Brief history of operating systems
-   - `this is dumb we should use windows` <~~~ No ma'am / sir
-   - Tour of a linux server (ssh into raspberry pi)
+   - Why is Linux the most used operating system in the world [that you've never heard of]
+   -
 2. [What is a bootable USB?](bootableUSB.md)
 3. Why Linux?
    - Easy to set up and develop on
